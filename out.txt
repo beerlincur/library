@@ -1,0 +1,30 @@
+Author of the book is: Ariana_G.
+Name of the book is: Hello_world
+Year of publishing is: 1956
+Book discipline is: Programming
+Amount of books in library: 12
+
+Author of the book is: Sam_W.
+Name of the book is: Of_the_bet
+Year of publishing is: 1894
+Book discipline is: Informatic
+Amount of books in library: 111
+
+Author of the book is: Grigorio_V.
+Name of the book is: Road_to_dream
+Year of publishing is: 1676
+Book discipline is: Philosophy
+Amount of books in library: 123
+
+Author of the book is: Ronina_A.
+Name of the book is: Before_one_love
+Year of publishing is: 2003
+Book discipline is: Poem
+Amount of books in library: 240
+
+Author of the book is: Weller_S.
+Name of the book is: Bet_track
+Year of publishing is: 1580
+Book discipline is: Litrature
+Amount of books in library: 365
+

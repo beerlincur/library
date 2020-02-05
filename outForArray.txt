@@ -1,0 +1,48 @@
+Amount of the most popular book is: 
+
+Author of the book is: Sam W.
+Name of the book is: Of the bet
+Year of publishing is: 1894
+Book discipline is: Informatic
+Amount of books in library: 430
+
+Less popular is: 
+
+Author of the book is: Ariana G.
+Name of the book is: Hello world
+Year of publishing is: 1956
+Book discipline is: Informatic
+Amount of books in library: 12
+
+Sorted library (by amount of books in library): 
+
+Author of the book is: Ariana G.
+Name of the book is: Hello world
+Year of publishing is: 1956
+Book discipline is: Informatic
+Amount of books in library: 12
+
+Author of the book is: Weller S.
+Name of the book is: Bet track
+Year of publishing is: 1580
+Book discipline is: Litrature
+Amount of books in library: 123
+
+Author of the book is: Grigorio V.
+Name of the book is: Road to dream
+Year of publishing is: 1676
+Book discipline is: Algebra
+Amount of books in library: 228
+
+Author of the book is: Ronina A.
+Name of the book is: Before one love
+Year of publishing is: 2003
+Book discipline is: Poem
+Amount of books in library: 365
+
+Author of the book is: Sam W.
+Name of the book is: Of the bet
+Year of publishing is: 1894
+Book discipline is: Informatic
+Amount of books in library: 430
+
